@@ -9,6 +9,7 @@ public class SumOfTwoIntegers {
 		System.out.println(c);
 		System.out.println("Result is "+c);
 		System.out.println("C");
+		System.out.println();
 	
 		
 
